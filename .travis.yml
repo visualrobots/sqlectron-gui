@@ -35,6 +35,7 @@ addons:
       - graphicsmagick
       - rpm
       - bsdtar
+      - libsqlite3-dev
 
 install:
 - clang --version
